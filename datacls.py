@@ -25,3 +25,4 @@ print(person3)
 #some = {'name':'joe','surname': 'stalin','telephone': '+12346784','age': 23}
 #person6 = People(**some)
 #print(person6)
+hjjj
